@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirebaseDataBase</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="send">Send</string>
+</resources>
